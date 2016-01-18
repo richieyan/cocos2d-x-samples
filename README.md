@@ -52,9 +52,14 @@ The Eye Candy demo that comes with LiquidFun, adapted for cocos2d-x. Includes tw
 - `LFParticleSystemNode`: Wraps a LiquidFun `b2ParticleSystem` into a cocos2d-x node.
 - `LFPhysicsSpriteNode`: Wraps a LiquidFun `b2Body` into a cocos2d-x node.
 
-Supported platforms:
+Wanna run on Windows or Mac:
+- [Manual for run windows or mac](http://www.jianshu.com/p/3012b77ddb58)
 
+Supported platforms:
 - iOS
+- Mac
+- Windows
+
 
 ### GAF ![](http://icons.iconarchive.com/icons/custom-icon-design/pretty-office-11/16/new-icon.png)
 
